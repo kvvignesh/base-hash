@@ -1,6 +1,6 @@
 {
   "name": "base-hash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An util helps to hash with different base",
   "main": "index.js",
   "keywords": [
@@ -8,13 +8,13 @@
     "hash",
     "stream"
   ],
-  "homepage": "https://github.com/kvvignesh/bash-hash",
+  "homepage": "https://github.com/kvvignesh/base-hash",
   "bugs": {
-    "url": "https://github.com/kvvignesh/bash-hash/issues"
+    "url": "https://github.com/kvvignesh/base-hash/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kvvignesh/bash-hash.git"
+    "url": "https://github.com/kvvignesh/base-hash.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
