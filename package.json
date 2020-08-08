@@ -1,0 +1,24 @@
+{
+  "name": "base-hash",
+  "version": "1.0.0",
+  "description": "An util helps to hash with different base",
+  "main": "index.js",
+  "keywords": [
+    "shorturl",
+    "hash",
+    "stream"
+  ],
+  "homepage": "https://github.com/kvvignesh/bash-hash",
+  "bugs": {
+    "url": "https://github.com/kvvignesh/bash-hash/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvvignesh/bash-hash.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K V Vignesh",
+  "license": "MIT"
+}
