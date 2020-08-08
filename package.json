@@ -1,6 +1,6 @@
 {
   "name": "base-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An util helps to hash with different base",
   "main": "index.js",
   "keywords": [
